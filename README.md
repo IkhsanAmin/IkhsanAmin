@@ -3,7 +3,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=ikhsanamin&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F179390172%3Fu%3Dbbcfcbe8e8282855a60c37659589b68d1b91ab70%26v%3D4" alt="ikhsanamin hero visual" />
+  <img src="https://www.gitskins.com/api/section/hero?username=ikhsanamin&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F179390172%3Fu%3D411dca5c215b0970463ce1a53991a8cc3778502c%26v%3D4" alt="ikhsanamin hero visual" />
 </p>
 
 <p><b>Freelance developer or consultant</b></p>
