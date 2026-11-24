@@ -1,21 +1,42 @@
-<h1 align="center">Hi, I'm Ikhsan Noor Amin</h1>
-<h3 align="center">An Information Systems student passionate about Web & App Development, exploring technologies and building digital solutions.</h3>
+## Selected work
 
-- I’m currently working on **Personal Web & App Projects**
+<div align="center">
 
-- I’m currently learning **Laravel, Flutter, JavaScript**
-
-- I’m looking to collaborate on **Web and Mobile Application Projects**
-
-- Fun fact **Usually playing CS2 or EA SPORTS FC when I'm not coding or hitting the gym.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ikhsannooramin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ikhsannooramin" height="30" width="40" /></a>
-<a href="https://instagram.com/ikhs4nn.n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ikhs4nn.n" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=ikhsanamin&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F179390172%3Fu%3Dbbcfcbe8e8282855a60c37659589b68d1b91ab70%26v%3D4" alt="ikhsanamin hero visual" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p><b>Freelance developer or consultant</b></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ikhsanamin&" alt="ikhsanamin" /></p>
+</div>
+
+## The idea behind the work
+
+> Information Systems Student | Exploring Web &amp; Mobile Development | Building practical applications and learning new technologies.
+
+- 📍 Based in **Yogyakarta, Indonesia**
+- 👥 **0** followers · **0** following
+
+*Small, useful work over vague claims.*
+
+## Case studies
+
+<table>
+<tr><td width="32%"><b><a href="https://github.com/IkhsanAmin/sakuva-android">sakuva-android</a></b></td><td>Offline-first personal finance tracker for Android built with Jetpack Compose, Clean Architecture, and Soft Structuralism UI.<br/><sub>Kotlin · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/IkhsanAmin/IkhsanAluminium">IkhsanAluminium</a></b></td><td>An offline Android application for managing aluminium furniture business operations, including orders, work progress, payments, inventory, and financial reports. Built with Kotlin and Jetpack Compose.<br/><sub>Kotlin · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/IkhsanAmin/SanRisk">SanRisk</a></b></td><td>A trading risk management toolkit for Forex, Commodities, Crypto Spot, and Crypto Futures.<br/><sub>TypeScript · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/IkhsanAmin/SanGain">SanGain</a></b></td><td>stock-calculator stock-market investment-tools indonesia html css javascript vanilla-javascript financial-tools<br/><sub>CSS · 0 stars</sub></td></tr>
+</table>
+
+## Creative toolkit
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+## Make something memorable
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=ikhsanamin&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F179390172%3Fu%3Dbbcfcbe8e8282855a60c37659589b68d1b91ab70%26v%3D4" alt="ikhsanamin social visual" />
+</p>
+<a href="https://github.com/ikhsanamin">GitHub</a>
+
+<p align="center"><sub>Ikhsan Noor Amin · Creative portfolio generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
