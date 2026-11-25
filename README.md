@@ -39,4 +39,4 @@
 </p>
 <a href="https://github.com/ikhsanamin">GitHub</a>
 
-<p align="center"><sub>Ikhsan Noor Amin · Creative portfolio generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p align="center"><sub>Ikhsan Noor Amin</sub></p>
